@@ -40,6 +40,7 @@
             this.picGlub1 = new System.Windows.Forms.PictureBox();
             this.picGlub2 = new System.Windows.Forms.PictureBox();
             this.btnAcelera = new System.Windows.Forms.Button();
+            this.btnSair = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picForguete)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picAviao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picExplosao)).BeginInit();
@@ -63,7 +64,7 @@
             // btnDispara
             // 
             this.btnDispara.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnDispara.Location = new System.Drawing.Point(423, 317);
+            this.btnDispara.Location = new System.Drawing.Point(423, 263);
             this.btnDispara.Name = "btnDispara";
             this.btnDispara.Size = new System.Drawing.Size(101, 48);
             this.btnDispara.TabIndex = 1;
@@ -74,7 +75,7 @@
             // btnPara
             // 
             this.btnPara.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnPara.Location = new System.Drawing.Point(423, 371);
+            this.btnPara.Location = new System.Drawing.Point(423, 317);
             this.btnPara.Name = "btnPara";
             this.btnPara.Size = new System.Drawing.Size(101, 48);
             this.btnPara.TabIndex = 2;
@@ -148,7 +149,7 @@
             // btnAcelera
             // 
             this.btnAcelera.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAcelera.Location = new System.Drawing.Point(423, 263);
+            this.btnAcelera.Location = new System.Drawing.Point(423, 209);
             this.btnAcelera.Name = "btnAcelera";
             this.btnAcelera.Size = new System.Drawing.Size(101, 48);
             this.btnAcelera.TabIndex = 8;
@@ -156,12 +157,24 @@
             this.btnAcelera.UseVisualStyleBackColor = true;
             this.btnAcelera.Click += new System.EventHandler(this.btnAcelera_Click);
             // 
+            // btnSair
+            // 
+            this.btnSair.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSair.Location = new System.Drawing.Point(423, 371);
+            this.btnSair.Name = "btnSair";
+            this.btnSair.Size = new System.Drawing.Size(101, 48);
+            this.btnSair.TabIndex = 9;
+            this.btnSair.Text = "Sair";
+            this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
+            // 
             // frmFoguete
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(180)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(536, 440);
+            this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnAcelera);
             this.Controls.Add(this.picGlub2);
             this.Controls.Add(this.picGlub1);
@@ -198,6 +211,7 @@
         private System.Windows.Forms.PictureBox picGlub1;
         private System.Windows.Forms.PictureBox picGlub2;
         private System.Windows.Forms.Button btnAcelera;
+        private System.Windows.Forms.Button btnSair;
     }
 }
 

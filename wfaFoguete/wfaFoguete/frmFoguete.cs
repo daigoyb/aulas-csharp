@@ -90,5 +90,13 @@ namespace wfaFoguete
         {
             picAviao.Left += 10;
         }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            DialogResult resultado = MessageBox.Show("Tem certeza que quer sair?", "Confirmação de saída", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (resultado == DialogResult.Yes)
+                this.Close();
+        }
+ 
     }
 }
