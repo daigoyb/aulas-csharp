@@ -1,0 +1,12 @@
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\frmAreasVolumes.resx
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\frmAreasVolumes.cs
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\frmAreasVolumes.Designer.cs
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\wfaCalculaArea_RafaelDaigo2.exe.config
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\wfaCalculaArea_RafaelDaigo2.exe
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\bin\Debug\wfaCalculaArea_RafaelDaigo2.pdb
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.csprojResolveAssemblyReference.cache
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.frmAreasVolumes.resources
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.Properties.Resources.resources
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.csproj.GenerateResource.Cache
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.exe
+E:\Aulas C#\wfaCalculaArea_RafaelDaigo2\wfaCalculaArea_RafaelDaigo2\obj\Debug\wfaCalculaArea_RafaelDaigo2.pdb

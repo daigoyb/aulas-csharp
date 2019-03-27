@@ -1,0 +1,9 @@
+E:\Aulas C#\wfaFoguete\wfaFoguete\bin\Debug\wfaFoguete.exe.config
+E:\Aulas C#\wfaFoguete\wfaFoguete\bin\Debug\wfaFoguete.exe
+E:\Aulas C#\wfaFoguete\wfaFoguete\bin\Debug\wfaFoguete.pdb
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.csprojResolveAssemblyReference.cache
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.frmFoguete.resources
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.Properties.Resources.resources
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.csproj.GenerateResource.Cache
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.exe
+E:\Aulas C#\wfaFoguete\wfaFoguete\obj\Debug\wfaFoguete.pdb
