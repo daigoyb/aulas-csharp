@@ -1,0 +1,10 @@
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\bin\Debug\wfaEditor_RafaelDaigo.exe.config
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\bin\Debug\wfaEditor_RafaelDaigo.exe
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\bin\Debug\wfaEditor_RafaelDaigo.pdb
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.csprojAssemblyReference.cache
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.frmEditor.resources
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.Properties.Resources.resources
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.csproj.GenerateResource.cache
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.csproj.CoreCompileInputs.cache
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.exe
+F:\Aulas C#\wfaEditor_RafaelDaigo\wfaEditor_RafaelDaigo\obj\Debug\wfaEditor_RafaelDaigo.pdb
